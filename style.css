@@ -119,7 +119,7 @@ button {
   padding-top: 6px;
 }
 
-@media only screen and (max-width: 940px) {
+/* @media only screen and (max-width: 940px) {
   button {
     width: 40%;
     margin: 5px 0;
@@ -139,9 +139,9 @@ button {
     padding-top: 0;
   }
 
-}
+} */
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 600px) {
   body {
     flex-direction: column;
   }
