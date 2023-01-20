@@ -30,9 +30,9 @@ body {
   flex-wrap: wrap;
   padding: 0 70px;
   gap: 10px 10px;
-  justify-content: center;
   width: 90%;
   margin: 0 auto;
+  justify-content: center;
 }
 
 #text-input {
